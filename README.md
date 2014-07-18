@@ -1,4 +1,4 @@
-unsafe-restart-plugin
+Unsafe Restart Plugin
 =====================
 
-Adds a management link to Jenkins that restarts the instance immediately
+Adds a management link to Jenkins that restarts the instance immediately.
