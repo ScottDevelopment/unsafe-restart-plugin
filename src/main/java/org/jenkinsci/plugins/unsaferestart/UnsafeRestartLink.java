@@ -22,7 +22,7 @@ public class UnsafeRestartLink extends ManagementLink {
 
     @Override
     public String getIconFileName() {
-        return "system-log-out.png";
+      return "/plugin/unsafe-restart/images/48x48/unsafe-restart.png";
     }
 
     @Override
